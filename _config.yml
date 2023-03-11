@@ -14,10 +14,9 @@ author:
   avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+- {icon: "ion-logo-youtube", label: Twitter, link: "https://twitter.com"}
+# - {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
+- {icon: "ion-logo-steam", label: Pinterest, link: "https://pinterest.com"}
 - {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
 - {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 
@@ -27,8 +26,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Ethan! Designer & Developer.
-  hero__description: I'm a butthole & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
+  hero__title: ANYBUTTONGAMES
+  hero__description: For butthole and wine enthusiasts
   hero__image: '/images/01.jpg'
 
 
