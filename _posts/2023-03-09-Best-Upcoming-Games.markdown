@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Ten Best Upcoming Games in 2023 You’ve Never Heard of (And can also afford)
-description: They're great!
+description: Great experiences at a budget
 date:   2023-03-09 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [lists, hobby, study]
