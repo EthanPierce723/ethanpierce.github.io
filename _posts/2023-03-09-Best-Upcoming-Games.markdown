@@ -4,7 +4,7 @@ title:  The Ten Best Upcoming Games in 2023 You’ve Never Heard of
 description: (And can also afford)
 date:   2023-03-09 15:01:35 +0300
 image:  '/images/videogamereleases2023.jpg'
-tags:   [lists, hobby, study]
+tags:   [lists, indie]
 ---
 2023 is poised to be one of the most jam-packed years Triple-A gaming has had in a very, very long time. Between soaring amongst the painted skies of the melodic Breath of the Wild 2, to frantically blasting away at hoards of the undead with all your friends in Redfall, there’s something for everyone in the year when video games bounce back to their old selves following the seemingly endless effects of the pandemic. 
 
