@@ -27,7 +27,7 @@ social:
 # Hero Settings
 hero:
   hero__title: ANYBUTTONGAMES
-  hero__description: News, reviews, takes, goofs, and some interesting ideas.
+  hero__description: News, reviews, takes, goofs, and even some interesting ideas.
   hero__image: '/images/01.jpg'
 
 
