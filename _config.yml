@@ -11,7 +11,7 @@ url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your
 author:
   name: Ethan Pierce
   bio: Writer of films, games, the blog you're on, and hopefully something you've enjoyed.
-  avatar: '/images/01.jpg'
+  avatar: '/images/IMG_4912.jpg'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
