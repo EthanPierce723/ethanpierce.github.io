@@ -43,7 +43,7 @@ mailchimp__button__text: Join # Add your button text
 #-------------------------------
 # Contact Settings
 contact:
-  email: ethanpierce723@gmail.com # Add your email for contact form
+  email: anybuttongames@gmail.com # Add your email for contact form
   description: I am a gamer, which means I am starved of human contact on a regular basis. Please contact me to resolve this. Please. # Add a description of your form
 
 # NOTE
