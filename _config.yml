@@ -4,7 +4,7 @@ title: Anybuttongames
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Reading about games > playing what you own.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://anybuttongames.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
