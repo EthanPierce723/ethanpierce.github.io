@@ -14,7 +14,7 @@ author:
   avatar: '/images/IMG_4912.jpg'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
+- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/AnyButtonGames"}
 # - {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
 - {icon: "ion-logo-steam", label: Steam, link: "https://store.steampowered.com/curator/43804457-AnyButtonGames/"}
 - {icon: "ion-logo-instagram", label: Instagram, link: "https://www.instagram.com/ethanpierceplz/"}
