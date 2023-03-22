@@ -12,7 +12,7 @@ This started, in part, because of my aversion to spending money. D&D is a game w
 
 Of course, if I had the money, I would absolutely buy every single one of these in a heartbeat,  frothing at the mouth and snapping at anyone who stands too close to me in the line at my local game store, but I digress.
 
-When you don’t want to spend money on online character sheet managers, on map creators or on online play spaces, it can be easy to assume there’s no alternative to the priced product and spend hundreds of hours using a pirated copy of photoshop to make Character sheets and using your stolen whiteboard to draw battle maps.
+When you don’t want to spend money on online [character sheet managers](https://www.dndbeyond.com/characters), on [map creators](https://inkarnate.com/) or on [online play spaces](https://roll20.net/), it can be easy to assume there’s no alternative to the priced product and spend hundreds of hours using a pirated copy of photoshop to make Character sheets and using your stolen whiteboard to draw battle maps.
 
 But what if I told you I have found a veritable gold mine collection of tools that accelerate (and even automate) the D&D prep process and you won’t have to spend even a single CP?
 
