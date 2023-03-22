@@ -65,7 +65,7 @@ You can find TabletopAudio [here.](https://tabletopaudio.com/)
 
 ![Graffiti]({{site.baseurl}}/images/ChatLogo.JPG)
 
-You know what ChatGPT is. The AI Chat bot with entirely too much knowledge and power which is taking over there world. What you might not know is it’s read every D&D sourcebook (and every other TTRPG) up to the September 2021 release of "Van Richtens Guide to Ravenloft", and can automate the process of creating custom enemies, spells, items, quests, characters and more.
+You know what ChatGPT is. The AI Chat bot with entirely too much knowledge and power which is taking over there world. What you might not know is it’s read every D&D sourcebook (and every other TTRPG) up to the September 2021 release of ["Van Richtens Guide to Ravenloft"](https://dnd.wizards.com/products/van-richtens-guide-ravenloft), and can automate the process of creating custom enemies, spells, items, quests, characters and more.
 
 It shouldn’t be a surprise, and I’m hesitant to give our future God Emperor more control over humanity than it already has, but it does save me from having to come up with how many D6 of damage my PCs dream weapon, the Hotdog Shotgun, does in a turn.
 
