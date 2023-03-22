@@ -45,7 +45,7 @@ You can find Aurora [here.](https://aurorabuilder.com/)
 
 This website would be a Godsend even if it lost all but two of its pages; the [Action Reference Guide](https://donjon.bin.sh/5e/quickref/) and the [Initiative Tracker](https://donjon.bin.sh/5e/initiative/).
 
-Gone are the days of, “*Give me five minutes to create a full spread sheet to track initiative*” and “*Give me twenty minutes to scour the player handbook for a list of all possible generic actions and free actions I can tell you about*” and enter the phrase said twice nightly at my tables, “*Let’s check the Donjon*”.
+Gone are the days of, <em style="font-family: system-ui">“Give me five minutes to create a full spread sheet to track initiative”</em> and <em style="font-family: system-ui">“Give me twenty minutes to scour the player handbook for a list of all possible generic actions and free actions I can tell you about”</em> and enter the phrase said twice nightly at my tables, <em style="font-family: system-ui">“Let’s check the Donjon”.</em>
 
 On top of this, it boasts an impressive number of random name, town, and quest generators, an array of dice rollers, map generators, and different rule sets so you can still use this under other TTRPG’s.
 
@@ -65,7 +65,7 @@ You can find TabletopAudio [here.](https://tabletopaudio.com/)
 
 ![Graffiti]({{site.baseurl}}/images/ChatLogo.JPG)
 
-You know what ChatGPT is. The AI Chat bot with entirely too much knowledge and power which is taking over there world. What you might not know is it’s read every D&D sourcebook (and every other TTRPG) up to X and can automate the process of creating custom enemies, spells, items, quests, characters and more?
+You know what ChatGPT is. The AI Chat bot with entirely too much knowledge and power which is taking over there world. What you might not know is it’s read every D&D sourcebook (and every other TTRPG) up to the September 2021 release of "Van Richtens Guide to Ravenloft", and can automate the process of creating custom enemies, spells, items, quests, characters and more.
 
 It shouldn’t be a surprise, and I’m hesitant to give our future God Emperor more control over humanity than it already has, but it does save me from having to come up with how many D6 of damage my PCs dream weapon, the Hotdog Shotgun, does in a turn.
 
