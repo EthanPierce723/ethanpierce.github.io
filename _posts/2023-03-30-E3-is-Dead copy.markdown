@@ -28,7 +28,7 @@ During what will likely be the last ever E3 Keanu Reeves took to the stage to si
 
 Let me ask you something. When you think of all time great marimba players who do you think of? Nintendo’s Vice President of Corporate Affaris Denise Kaigler? Correct! What about greatest ever cowbell players? Creator of Mario and also [Space Firebird](https://en.wikipedia.org/wiki/Space_Firebird) Shigeru Miyamoto? Two for two!
 
-Now what if told you they, along with Robbie, and two other dudes, got together to pretend to play instruments during Nintendos Wii centered 2008 conference? Would you like that? [Would that be good for you?](https://youtu.be/lfuw_DlZvQ4?t=32)
+Now what if told you they, along with Robbie, and two other dudes, got together to pretend to play those instruments during Nintendos Wii centered 2008 conference? Would you like that? [Would that be good for you?](https://youtu.be/lfuw_DlZvQ4?t=32)
 
 # Uncharted 4 Doesn’t Work, E3 2015
 
