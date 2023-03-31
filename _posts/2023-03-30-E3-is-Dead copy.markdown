@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  E3 is Dead. Here are it's Best and Worst Moments
+title:  E3 is Dead. An Ode to its Best Moments.
 description: The only event where best and worst where interchangeable.
 date:   2023-03-30 15:01:35 +0300
 image:  '/images/DNDBanner.JPG'
