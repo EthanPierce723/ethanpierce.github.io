@@ -4,9 +4,9 @@ title:  E3 is Dead. An Ode to its Best Moments.
 description: The only event where best and worst were interchangeable.
 date:   2023-03-30 15:01:35 +0300
 image:  '/images/e3-convention.JPG'
-tags:   [E3, Summer Games, Live Events]
+tags:   [E3, Summer Games, Live Events, Lists]
 ---
-[E3 is dead.](https://twitter.com/E3/status/1641546610218811393) More accurately, as best stated by this article on Kotaku, [it was killed.](https://kotaku.com/e3-2023-canceled-why-nintendo-sony-microsoft-la-rip-1850285780) But regardless, it is no more. A bygone era. A moment in time. A beautiful creature, gone the way of the dodo. It exists now only in VODs and our increasingly deteriorating memories. But regardless, it is no more. A bygone era. A moment in time. 
+[E3 is dead.](https://twitter.com/E3/status/1641546610218811393) More accurately, as best stated by this article on Kotaku, [it was killed.](https://kotaku.com/e3-2023-canceled-why-nintendo-sony-microsoft-la-rip-1850285780) But regardless, it is no more. A bygone era. A moment in time. It exists now only in VODs and our increasingly deteriorating memories.  
 
 It’s hard to overstate how much the event will be missed. The three day show where seemingly the entire gaming universe crashed into the Los Angeles convention center for reveals, demos, cringe, crowds, and [some guy on a banjo.](https://youtu.be/SDX3IAmIEro) 
 

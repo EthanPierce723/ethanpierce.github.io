@@ -4,7 +4,7 @@ title:  TTRPG Tuesdays;  Free DM Tools to Enhance Your D&D Prep
 description: Free ways to speed up you D&D Prep
 date:   2023-03-21 15:01:35 +0300
 image:  '/images/DNDBanner.JPG'
-tags:   [TTRPG, Resources]
+tags:   [TTRPG, Resources, Lists]
 ---
 I’ve been a DM for a long time now. Not necessarily in terms of years, that’s only been the case for about three years. But in terms of hours spent in prep and at the table? Well, according to Gladwell, I’m an expert approximately [five times over.](https://www.businessinsider.com/malcolm-gladwell-explains-the-10000-hour-rule-2014-6)
 
