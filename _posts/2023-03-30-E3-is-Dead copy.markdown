@@ -10,7 +10,7 @@ tags:   [E3, Summer Games, Live Events]
 
 It’s hard to overstate how much the event will be missed. The three day show where seemingly the entire gaming universe crashed into the Los Angeles convention center for reveals, demos, cringe, crowds, and [some guy on a banjo.](https://youtu.be/SDX3IAmIEro) 
 
-It was messy, it was beautiful, it [was mismanaged](https://kotaku.com/e3-2023-canceled-why-nintendo-sony-microsoft-la-rip-1850285780), it was hilarious, it was the cringiest thing you’ve ever seen, and it was one of the sweetest. There will never be another truly like it.
+It was messy, it was beautiful, it [was mismanaged](https://www.gamesindustry.biz/the-esa-hits-a-low-point), it was hilarious, it was the cringiest thing you’ve ever seen, and it was one of the sweetest. There will never be another truly like it.
 
 Here are the best moments in its storied legacy.
 
