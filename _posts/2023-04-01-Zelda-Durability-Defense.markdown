@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Breath of the Wilds Weapon Degradation Made it a Masterpiece
+title:  Breath of the Wilds Weapon Degradation Helped Make it a Masterpiece
 description: The first hill I'm fully willing to die on
 date:   2023-04-01 15:01:35 +0300
 image:  '/images/Botw-Link-Climb.JPG'
