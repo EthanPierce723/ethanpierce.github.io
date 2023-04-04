@@ -2,7 +2,7 @@
 layout: post
 title:  E3 is Dead. An Ode to its Best Moments.
 description: The only event where best and worst were interchangeable.
-date:   2023-03-30 15:01:35 +0300
+date:   2023-03-31 15:01:35 +0300
 image:  '/images/e3-convention.JPG'
 tags:   [E3, Summer Games, Live Events, Lists]
 ---
