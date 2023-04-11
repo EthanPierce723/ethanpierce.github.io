@@ -2,7 +2,7 @@
 layout: post
 title:  You Should Really Play 'The Upturned'
 description: Overlooked wishes it was a good enough word.
-date:   2023-04-10 15:01:35 +0300
+date:   2023-04-11 15:01:35 +0300
 image:  '/images/Upturned Banner.JPG'
 tags:   [Indie, Spotlight, Analysis, YSRP]
 ---
