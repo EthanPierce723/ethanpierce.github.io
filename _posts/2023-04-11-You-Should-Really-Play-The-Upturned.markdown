@@ -30,7 +30,7 @@ The Upturned does something that very few games, especially games amongst the mo
 
 It's funny, but it's quiet, it doesn't point at itself and laugh. It doesn't have any sort of indicators, like [Cartman's narration over the difficulty slider](https://youtu.be/YLP8J-wgKfw?t=14) in <em style="font-family: system-ui">South Park: The Fractured But Whole</em>, that make it clear if you're supposed to even be laughing or not.
 
-What it does cue are some recurring gameplay and design themes; you'll  understand the scope of whats going on, and you're never in control. And oddly, in this silly moment, that's quite scary.
+What it does cue are some recurring gameplay and design themes; you'll never understand the scope of whats going on, and you're never in control. And oddly, in this silly moment, that's quite scary.
 
 The games ability to stay surprising, to combine its humor and its horror, to present situations and flip them on their heads, thats whats so special about this game.
 
