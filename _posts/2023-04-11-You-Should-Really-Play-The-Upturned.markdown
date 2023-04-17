@@ -4,7 +4,7 @@ title:  You Should Really Play 'The Upturned'
 description: Overlooked wishes it was a good enough word.
 date:   2023-04-11 15:01:35 +0300
 image:  '/images/Upturned Banner.JPG'
-tags:   [Indie, Spotlight, Analysis, YSRP]
+tags:   [Indie, Analysis, YSRP]
 ---
 Fifteen items down on the [Steam 250 Hidden Gems list](https://store.steampowered.com/curator/32686107-%25D0%2585t%25D0%25B5%25D0%25B0%25D0%25BC-250/list/41983/), you'll find a game that really doesn't look like anything else on it. 
 

@@ -16,7 +16,7 @@ Today, in the first unpopular flag planted in this website, we’re going to not
 
 # The Original System
 
-![Graffiti]({{site.baseurl}}/images/Link-Zelda-Field.JPG)
+![Zelda Breath of the Wild Field]({{site.baseurl}}/images/Link-Zelda-Field.JPG)
 *Official Artwork by Nintendo*
 
 The original system for <em style="font-family: system-ui">Breath of the Wild</em> had you finding and collecting an arsenal of weapons throughout the game, each with a finite durability.
@@ -40,7 +40,7 @@ I'd like to counter these points one at a time.
 
 # Pro-Exploration
 
-![Graffiti]({{site.baseurl}}/images/Totk-Link-Cliff.JPG)
+![Zelda Breath of the Wild Cliff]({{site.baseurl}}/images/Totk-Link-Cliff.JPG)
 *Official Artwork by Nintendo*
 
 
