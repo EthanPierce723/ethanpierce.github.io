@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  TTRPG Tuesdays;  Free DM Tools to Enhance Your D&D Prep
-description: Free ways to speed up you D&D Prep
+title:  Free DM Tools to Enhance Your D&D Prep
+description: TTRPG Tuesdays; Let's Automate the Boring Stuff
 date:   2023-03-21 15:01:35 +0300
 image:  '/images/DNDBanner.JPG'
 tags:   [TTRPG, Resources, Lists]
