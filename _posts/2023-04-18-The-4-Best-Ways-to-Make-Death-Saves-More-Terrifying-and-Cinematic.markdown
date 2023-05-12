@@ -2,7 +2,7 @@
 layout: post
 title:  The 3 Best Ways to Make Death Saves More Terrifying and Cinematic
 description: TTRPG Tuesdays; How to Kill Players Better
-date:   2023-04-16 15:01:35 +0300
+date:   2023-04-18 15:01:35 +0300
 image:  '/images/The Wild Beyond Death Saves.jpg'
 tags:   [TTRPG, Lists, Analysis, Resources]
 ---

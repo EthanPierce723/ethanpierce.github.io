@@ -4,7 +4,7 @@ title:  Dead Island 2 and the Greatest CG Trailers in Gaming History
 description: Also maybe the only good ones.
 date:   2023-04-16 15:01:35 +0300
 image:  '/images/Dead Island 2 Banner.JPG'
-tags:   [Dead Island, Horror, Techland, Analysis, Upcoming]
+tags:   [Industry News, Horror, Analysis, Upcoming]
 ---
 With <em style="font-family: system-ui">Dead Island 2</em> just around the corner, its marketing push is in full swing. There’s more than a little chance you’ve been seeing they’re [blood-fueled gameplay trailers](https://youtu.be/Am8ET6CgJy8) plastered all over your favorite websites and before your videos. I have too. 
 

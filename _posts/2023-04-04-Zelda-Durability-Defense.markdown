@@ -4,7 +4,7 @@ title:  Breath of the Wilds Weapon Degradation Helped Make it a Masterpiece
 description: The first hill I'm fully willing to die on
 date:   2023-04-04 15:01:35 +0300
 image:  '/images/Botw-Link-Climb.JPG'
-tags:   [Zelda, Breath of the Wild, Tears of the Kingdom, Hot takes, Analysis]
+tags:   [Hot takes, Analysis, Nintendo]
 ---
 Ever since <em style="font-family: system-ui">The Legend of Zelda: Tears of the Kingdom</em> gameplay deep dive released a few days ago, the internet has been awash with [cries of disappointment](https://kotaku.com/zelda-tears-kingdom-weapon-break-fuse-degradation-botw-1850273218) seeing that the weapon durability and degradation system returning from <em style="font-family: system-ui">Breath of the Wild.</em> 
 
