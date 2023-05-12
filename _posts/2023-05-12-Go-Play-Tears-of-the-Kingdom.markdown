@@ -2,7 +2,7 @@
 layout: post
 title: What Are You Doing? Go Play Tears of the Kingdom
 description: This isn't even an article
-date:   2023-05-12 12:01:35 +0300
+date:   2023-05-12 10:01:35 +0300
 image:  '/images/Totk Banner.jpg'
 tags:   [Analysis, YSRP,]
 ---
