@@ -38,7 +38,7 @@ One of your characters hands is now occupied. If you wanna use that new legendar
 
 Think about any other common mechanics for exploration in games. In that water level, does swimming provide something new for the player to be excited about, or does it just take away your ability to move fast and use weapons? 
 
-In that gaseous swamp level, do the ever-present stink lines give the player a new method of engaging with the world, or simply limit the play area, lest they be poisoned with Poison, Rot, Corruption, or whatever other status effect has been assigned to, “this isn’t an invisible wall, but it might as well be”?
+In that gaseous swamp level, do the ever-present stink lines give the player a new method of engaging with the world, or simply limit the play area, lest they be afflicted with Poison, Rot, Corruption, or whatever other status effect has been assigned to, “this isn’t an invisible wall, but it might as well be”?
 
 ![Valhalla]({{site.baseurl}}/images/Valhalla Swamps.jpg)
 
