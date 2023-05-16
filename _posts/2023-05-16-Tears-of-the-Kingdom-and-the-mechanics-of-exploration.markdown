@@ -14,7 +14,7 @@ Every system, every collection of mechanics, is the best thing a video game can 
 
 Tears of the Kingdom excels in exploration in a way that almost no other game does. And that’s because Tears of the Kingdom paid very specific attention to its exploration as its own separate system. It does not simply offload the work of making exploration fun through its Movement, Combat, and Building Mechanics.
 
-On their own merit, the Mechanics of Tears of the Kingdom are masterful.
+## On their own merit, the Mechanics of Tears of the Kingdom are masterful.
 
 This is not to say that there are hardly any games that incentivize, entice, reward, or thrill players with exploration. On the contrary, in the age of the Single Player Open World or the Multiplayer Battle Royale exploration is often necessary to succeed within a modern game. 
 
@@ -24,9 +24,9 @@ You can’t win a match of Apex Legends without scouring buildings for weapons a
 
 Exploration in these games is integral to the gameplay loop, rewarding, and exciting. Moving through these worlds is fun, battling against the various enemies that populate them is fun, and  finding what it has hidden beneath its surface whether that be in the form of a boss or a new shiny piece of loot is fun.
 
-But I wonder, when you think about it; is exploring in any of these games fun?
+But I wonder, when you think about it; is <em style="font-family: system-ui">exploring</em> in any of these games <em style="font-family: system-ui">fun?</em>
 
-Are the mechanics; the rules, methods, constraints, or mechanisms attached the player engaging with an environment for the express purpose of uncovering new space fun?
+Are the mechanics; the rules, methods, constraints, or mechanisms attached the player engaging with an environment for the express purpose of uncovering new space in most new games fun?
 
 One of the only mechanics attached expressly to exploration in many different games is illumination via torchlight. You come to a dark space, you take out a torch, light it, now you can see what you’re doing. Classic video games.
 
@@ -44,9 +44,9 @@ In that gaseous swamp level, do the ever-present stink lines give the player a n
 
 Now, in fairness, illumination, swimming, and environmental effects are all absolutely present in Tears of the Kingdom. So what’s the difference?
 
-In a word, they are additive. Not subtractive.
+In a word, they are <em style="font-family: system-ui">additive.</em> Not <em style="font-family: system-ui">subtractive.</em>
 
-At no point does exploring in Tears of the Kingdom detract from the experience of playing it. It’s the simple, differing philosophy of designing a world with also, as opposed to but, in mind.
+At no point does exploring in Tears of the Kingdom detract from the experience of playing it. It’s the simple, differing philosophy of designing a world with <em style="font-family: system-ui">also,</em> as opposed to <em style="font-family: system-ui">but,</em> in mind.
 
 When illuminating The Depths in Hyrule, the space is nearly pitch black and the primary method told to you over and over is to either throw or fire Brightbloom seeds in order to illuminate the area. You don’t need to sacrifice your weapon in place of holding a torch. You can still swing your sword, shoot your bow, and ready your shield but in addition you also need to find the time and space to fire off a Brightbloom seed, which can add a frightening level to combat with what are Hyrules' most fearsome enemies.
 
