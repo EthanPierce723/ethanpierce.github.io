@@ -34,7 +34,7 @@ One of the only mechanics attached expressly to exploration in many different ga
 
 But is that fun? Is this ubiquitous mechanic in seemingly every exploration-based game actually providing any value or entertainment to the experience? No. In fact, it’s actively detracting from it.
 
-On of your characters hands is now occupied. If you wanna use that new legendary bow, or if you’re dependent on a two-handed weapon because its the only one you’ve actually bothered to upgrade, you’re S.O.L. until you leave this cave.
+One of your characters hands is now occupied. If you wanna use that new legendary bow, or if you’re dependent on a two-handed weapon because its the only one you’ve actually bothered to upgrade, you’re S.O.L. until you leave this cave.
 
 Think about any other common mechanics for exploration in games. In that water level, does swimming provide something new for the player to be excited about, or does it just take away your ability to move fast and use weapons? 
 
