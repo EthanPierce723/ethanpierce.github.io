@@ -2,7 +2,7 @@
 layout: post
 title: Tears of the Kingdom and the Mechanics of Exploration
 description: Exploring has never been this fun.
-date:   2023-05-12 09:01:35 +0300
+date:   2023-05-16 09:01:35 +0300
 image:  '/images/Totk Banner 2.jpg'
 tags:   [Analysis, YSRP,]
 ---
