@@ -2,7 +2,7 @@
 layout: post
 title: Major Havoc; A love Letter
 description: My Favorite Ever Arcade Cabinet
-date:   2023-05-16 15:01:35 +0300
+date:   2023-05-19 15:01:35 +0300
 image:  '/images/Major Havoc (Arcade Banner).jpeg'
 tags:   [Analysis, YSRP,]
 ---
