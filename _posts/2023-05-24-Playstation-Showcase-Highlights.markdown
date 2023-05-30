@@ -4,7 +4,7 @@ title: Sony Showcase; The Highlights
 description: (For me, that is.)
 date:   2023-05-24 09:01:35 +0300
 image:  '/images/Sony Showcase.jpg'
-tags:   [Analysis, YSRP,]
+tags:   [Lists, Upcoming,]
 ---
 The first shot has been fired on the front of 2023's-Not-E3 Marathon, and it came to us in the form of a cloud-based Sony Switch, [Ready Player Turismo](https://www.youtube.com/live/e9z0atV8VDk?feature=share&t=6286), and... [Airpods?](https://youtu.be/03DEcB2ny4E)
 
