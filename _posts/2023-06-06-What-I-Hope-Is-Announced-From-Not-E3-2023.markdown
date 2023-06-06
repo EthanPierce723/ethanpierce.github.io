@@ -2,7 +2,7 @@
 layout: post
 title: What I Hope is Announced from Not-E3-2023
 description: My Most Anticipated Titles
-date:   2023-05-24 09:01:35 +0300
+date:   2023-06-06 12:01:35 +0000
 image:  '/images/Summer Games Banner.jpg'
 tags:   [Analysis, YSRP,]
 ---
