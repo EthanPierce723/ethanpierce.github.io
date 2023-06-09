@@ -38,9 +38,9 @@ Releasing *July 25th* I anticipate talking about this one more soon.
 # Sonic Superstars
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u4yrKBxvhxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
-Sonic Superstars continues Segas reinvigoration of the 2D Sonic formula, but instead of only attempting to re-capture the magic Sonic Superstars seems to further the fundamental formula.
+Sonic Superstars continues Segas reinvigoration of the 2D Sonic formula, but instead of only attempting to re-capture the magic Sonic Superstars seems to further it.
 
-Expanding upon the 2D platforming mechanics, allowing us to play as characters we haven't in the 2D editions of Sonic thus far, and adding the very exciting addition of Co-op shows us that Sega is doubling down on the 2D Sonic formula.
+Expanding upon the 2D platforming mechanics, allowing us to play as characters we haven't in the 2D editions thus far, and adding the very exciting Co-op mode shows us that Sega is doubling down on one of the best ways to experience Sonic.
 
 Coming out surprisingly soon, Sonic Superstars is out *Fall 2023.*
 
