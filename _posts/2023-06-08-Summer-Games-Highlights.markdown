@@ -92,8 +92,6 @@ This puzzle aspect of the action displayed looks like it could elevate it to bei
 
 *Annapurna Showcase Announcement* - Very exciting to see the excellent gaming division of Annapurna getting its own showcase, also not a video game.
 
-[*Twisted Metal*](https://youtu.be/-Mn4RBWv03A) - Looks like at least a visually pretty fun adaptation, a little too quippy but definitely interesting. Amazingly, *not a video game.*
-
 # Final Fantasy 7 Rebirth
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HkD8BCCYsS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
