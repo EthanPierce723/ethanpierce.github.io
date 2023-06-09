@@ -127,7 +127,7 @@ And with that, in the most expected finale ever--
 <br>
 The Sony execs rewatched that [legendary Uncharted 4 demo](https://youtu.be/zL46dpNEPPA) and one of them went, "What if we did that, but with Spider-Man?" 
 
-And then, quite miraculously, another exec said, "What if we did that with two Spider-Men?"
+And then, quite miraculously, another exec said, "What if we did that with <em style="font-family: system-ui">two</em> Spider-Men?"
 
 Insomniacs extended gameplay showcase not only confirmed that the quality of the original has been maintained in both style and substance but also justifies the 2 in the title.
 
