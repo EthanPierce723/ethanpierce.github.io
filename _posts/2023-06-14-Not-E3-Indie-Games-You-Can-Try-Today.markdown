@@ -169,3 +169,5 @@ Thank God I didn't.
 <em style="font-family: system-ui">The Bookwalker</em> has a set-up, style, and character that is just absolutely bursting with potential for endless iteration. Diving your way into the worlds of various novels like a grimdark Magic Treehouse doesn't seem like it could get old and I can tell you from playing its demo that it certainly does not.
 
 You can dive into the world of Bookwalker [here.](https://store.steampowered.com/app/1432100/The_Bookwalker_Thief_of_Tales/)
+
+Also, for a tl;dr version of this article and a collection of all the titles readily available to play and wishlist, check out this list on my Steam Curator page [here.](https://store.steampowered.com/curator/43804457-AnyButtonGames/list/108430)
